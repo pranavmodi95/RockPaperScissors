@@ -1,0 +1,54 @@
+*{
+  background-color: #354f52;
+}
+
+.display{
+  
+  margin: 200px 150px 0px 150px;
+  display: flex;
+  justify-content: center; 
+}
+.your-result2{
+  display: flex;
+  justify-content: center;
+}
+
+.your-button{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  color: orange;
+  text-align: center;
+}
+
+h2{
+  color: #cad2c5;
+  text-align: center;
+  padding: 50px;
+}
+
+button{
+  background-color: #cad2c5;
+  padding: 20px 50px;
+  border: none;
+  margin: 10px;
+  font-size: 20px;
+  color: #2f3e46;
+  border-radius: 10px;
+
+}
+#result{
+  font-size: 30px;
+  color: orange;
+}
+
+#your-choice{
+  font-size: 30px;
+  color: orange;
+}
+#computer-choice{
+  font-size: 30px;
+  color: orange;
+}
